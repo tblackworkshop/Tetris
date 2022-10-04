@@ -13,4 +13,4 @@ DownArrow: move down a line
 
 Aware of bug when rotating tetromino into side of previously placed blocks causing unexpected behaviour
 
-Download repository and open index.html to play
+Download repository unzip the folder and open index.html to play
